@@ -14,3 +14,11 @@ linked mentions and graph view
 * you can even see the backlinks of the particular note.
 * we can see the graphical representation of connection of notes.
 
+Important Keys in markdown
+======================================================
+* linking your notes as mentioned above
+* tags for faster searching of the keyword ==> #tagname
+* Italic. to emphasize something ==> *Italic text here*
+* Bold. for bigger attention ==> **Bold text here**
+* lists. use list ==> - list here
+* Headers. total 6 header levels are available, add number of hashtags accordingly ==> # Header1
