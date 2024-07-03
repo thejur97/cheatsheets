@@ -28,5 +28,9 @@ Important Settings
 * Editor -> spell check
 * Plugins -> TagPane, PagePreview, Starred(atar the notes)
 * File -> DeletedFiles(move to system trash), always update inter links
-* Appearance -> DarkMode, custom Css
+* Appearance -> DarkMode, custom CSS
 * hotkeys (editmode and view mode)
+
+custom themes
+======================================================
+* use custom themes for better viewing experience.
