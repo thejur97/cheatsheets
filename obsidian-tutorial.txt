@@ -1,0 +1,16 @@
+starting with obsidian
+========================================================
+* create new vault. Provide the vault name and the location.
+
+creating notes and linking them
+=========================================================
+* create a first note, provide heading and notes.
+* create a second note, same as above
+* to link the first note in the second note ==> [[first note]]
+* you can even create a placeholder note, until you click on the link ==> [[uncreated note]]
+
+linked mentions and graph view
+==========================================================
+* you can even see the backlinks of the particular note.
+* we can see the graphical representation of connection of notes.
+
