@@ -33,7 +33,7 @@ Important Settings
 
 custom themes
 ======================================================
-* use custom themes for better viewing experience.
+* use custom themes for better viewing experience. 
 
 Important Hotkeys
 ======================================================
@@ -45,3 +45,7 @@ Important Hotkeys
 * forward ==> ctrl-alt-rightArrow
 * new note ==> ctrl-n
 * open note in new window ==> ctrl-click on note
+
+Personal choice
+========================================================
+custom theme ==> darkmode gruvbox
