@@ -22,3 +22,11 @@ Important Keys in markdown
 * Bold. for bigger attention ==> **Bold text here**
 * lists. use list ==> - list here
 * Headers. total 6 header levels are available, add number of hashtags accordingly ==> # Header1
+
+Important Settings
+======================================================
+* Editor -> spell check
+* Plugins -> TagPane, PagePreview, Starred(atar the notes)
+* File -> DeletedFiles(move to system trash), always update inter links
+* Appearance -> DarkMode, custom Css
+* hotkeys (editmode and view mode)
