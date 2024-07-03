@@ -34,3 +34,14 @@ Important Settings
 custom themes
 ======================================================
 * use custom themes for better viewing experience.
+
+Important Hotkeys
+======================================================
+* into the link ==> ctrl-click on link
+* toggle edit and preview mode ==> ctrl-e
+* search files ==> ctrl-o
+* search ==> ctrl-shift-f
+* back ==> ctrl-alt-leftArrow
+* forward ==> ctrl-alt-rightArrow
+* new note ==> ctrl-n
+* open note in new window ==> ctrl-click on note
